@@ -11,10 +11,9 @@ In the hospitality industry, tracking revenue, occupancy, and booking trends is 
 * Dataset includes:
 
   * Booking data
-  * Revenue metrics
-  * Hotel properties
-  * Room occupancy
-  * Time-based trends
+  * Hotels data
+  * Room Details
+  * Bookings and other properties
 * Data was cleaned and modeled for analysis using Power BI
 
 ---
