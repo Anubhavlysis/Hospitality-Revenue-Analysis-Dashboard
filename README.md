@@ -31,8 +31,11 @@ In the hospitality industry, tracking revenue, occupancy, and booking trends is 
 ---
 
 ## 📸 Dashboard Preview
-###Overview 
-!Dashboard(images/Dashboard.png)
+### Overview
+![Overview](images/Dashboard.png)
+
+###Semantic Model
+![Semantic Model](images/Semantic_Model.png)
 
 ---
 
